@@ -243,4 +243,67 @@ const LIAM_READING_WEEKS = [
     {day:5, type:"writing"},
   ]
 },
+{
+  id: 25,
+  label: "Unit 9 · Week 1",
+  days: [
+    {day:1, type:"mc", answers:[1,1,0,3]},
+    {day:2, type:"mc", answers:[0,2,3,3]},
+    {day:3, type:"mc", answers:[1,2]},
+    {day:4, type:"mc", answers:[1,2,3,3]},
+    {day:5, type:"writing"},
+  ]
+},
+{
+  id: 26,
+  label: "Unit 9 · Week 2",
+  days: [
+    {day:1, type:"mc", answers:[1,0,2,1]},
+    {day:2, type:"mc", answers:[3,2,0,0]},
+    {day:3, type:"mc", answers:[2,1]},
+    {day:4, type:"mc", answers:[1,3,2,1]},
+    {day:5, type:"writing"},
+  ]
+},
+{
+  id: 27,
+  label: "Unit 9 · Week 3",
+  days: [
+    {day:1, type:"mc", answers:[2,3,0,2]},
+    {day:4, type:"writing"},
+    {day:5, type:"writing"},
+  ]
+},
+{
+  id: 28,
+  label: "Unit 10 · Week 1",
+  days: [
+    {day:1, type:"mc", answers:[0,1,2,2]},
+    {day:2, type:"mc", answers:[1,1,0,2]},
+    {day:3, type:"mc", answers:[1,2]},
+    {day:4, type:"mc", answers:[2,0,0,2]},
+    {day:5, type:"writing"},
+  ]
+},
+{
+  id: 29,
+  label: "Unit 10 · Week 2",
+  days: [
+    {day:1, type:"mc", answers:[3,3,1,2]},
+    {day:2, type:"mc", answers:[2,1,3,0]},
+    {day:3, type:"mc", answers:[1,3]},
+    {day:4, type:"mc", answers:[2,0,2,3]},
+    {day:5, type:"writing"},
+  ]
+},
+{
+  id: 30,
+  label: "Unit 10 · Week 3",
+  days: [
+    {day:1, type:"mc", answers:[2,1,3,0]},
+    {day:2, type:"writing"},
+    {day:4, type:"writing"},
+    {day:5, type:"writing"},
+  ]
+},
 ];
